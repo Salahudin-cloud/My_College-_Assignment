@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1411536590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiD:\Pemograman_Terstruktur\Tugas\Transaksi\lib\i386-win32 -FuD:\Pemograman_Terstruktur\Tugas\Transaksi\ -FUD:\Pemograman_Terstruktur\Tugas\Transaksi\lib\i386-win32\ -FED:\Pemograman_Terstruktur\Tugas\Transaksi\ -oD:\Pemograman_Terstruktur\Tugas\Transaksi\transaksi.exe transaksi.pas"/>
+</CONFIG>

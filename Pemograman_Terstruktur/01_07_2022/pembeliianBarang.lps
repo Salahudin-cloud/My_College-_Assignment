@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="pembelianBarang"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="188"/>
+        <CursorPos X="44" Y="223"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="26" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="3" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="28" Column="56" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="40" Column="12" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="10" Column="5" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="15" Column="43" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="9" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="40" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="10" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="46" Column="24" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="47" Column="30" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="49" Column="19" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="13" Column="51" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="55" Column="21" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="174" Column="49" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="pembeliianBarang.lpr"/>
+        <Caret Line="226" Column="100" TopLine="189"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

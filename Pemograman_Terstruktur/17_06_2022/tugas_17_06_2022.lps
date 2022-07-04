@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="87"/>
+        <CursorPos X="25" Y="107"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tugas_17_06_2022_rev.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="40" Y="56"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="26" Column="43" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="132" Column="34" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="42" Column="9" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="131" Column="30" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="23" Column="54" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="16" Column="53"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="97" Column="26" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="121" Column="61" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="97" Column="28" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="13" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="14" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="13" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="22" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="131" Column="30" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="25" Column="7" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="42" Column="9" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="137" Column="44" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="136" Column="34" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="131" Column="37" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="28" Column="14" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="23" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="22" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="149" Column="59" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="101" Column="46" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="132" Column="24" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="137" Column="24" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="105" Column="25" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="107" Column="18" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022_rev.pas"/>
+        <Caret Line="56" Column="40" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="tugas_17_06_2022.pas"/>
+        <Caret Line="107" Column="41" TopLine="82"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

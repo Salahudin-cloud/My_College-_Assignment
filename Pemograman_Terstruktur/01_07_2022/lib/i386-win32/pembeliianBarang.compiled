@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1411536590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiD:\Materi_Kuliah\Semeter_2\Pemograman_Terstruktur\01_07_2022\lib\i386-win32 -FuD:\Materi_Kuliah\Semeter_2\Pemograman_Terstruktur\01_07_2022\ -FUD:\Materi_Kuliah\Semeter_2\Pemograman_Terstruktur\01_07_2022\lib\i386-win32\ -FED:\Materi_Kuliah\Semeter_2\Pemograman_Terstruktur\01_07_2022\ -oD:\Materi_Kuliah\Semeter_2\Pemograman_Terstruktur\01_07_2022\pembeliianBarang.exe pembeliianBarang.lpr"/>
+</CONFIG>
